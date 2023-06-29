@@ -3,7 +3,7 @@
 
 ## Question 1:  Implement a form to add a store
 * Name Input field: To enter the name
-* Password Input field: To enter the password. It should be a hidden field
+* Password Input field: To enter the password. It should be a type of password.
 * Products Group: Products are selling off
 * Currencies group: All the currencies that the store accepts.
 * A submit button: When clicking on this button, the 'GET' request will send to the server, and navigate to a result page
